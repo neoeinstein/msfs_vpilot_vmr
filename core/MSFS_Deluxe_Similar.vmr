@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelMatchRuleSet>
 	<ModelMatchRule TypeCode="BE55" ModelName="Asobo Baron G58" />
+	<ModelMatchRule TypeCode="BE56" ModelName="Asobo Baron G58" />
+	<ModelMatchRule TypeCode="B58T" ModelName="Asobo Baron G58" />
 	<ModelMatchRule TypeCode="C72R" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
  </ModelMatchRuleSet>
