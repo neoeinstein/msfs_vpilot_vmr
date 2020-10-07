@@ -16,11 +16,14 @@ sets, which also map aircraft with similar type codes to their cousins with
 models in MSFS. For example, a Beechcraft Baron 55 (type `BE55`) is mapped to
 the Beechcraft Baron G58 in MSFS when using the `Deluxe_Similar` rule set.
 
-Rules should be ordered so that the most standard rule sets come last. In
-general, `Similar` rule sets should come after other, more specific rules sets,
-and the `core` rule sets should be placed at the bottom of your rule set list.
-Additional, more specific rule sets, for specific liveries, etc., should be
-placed above these core rules.
+Rules should be ordered so that the most standard rule sets come last. vPilot
+steps through the rules and rule sets from top to bottom. The first matching
+rule it hits determines the model it will use, so the most specific rules and
+rule sets should appear at the top of your list. Thus, in general, `Similar`
+rule sets should come after other, more specific rules sets, and the `core` rule
+sets should be placed at the bottom of your rule set list. Additional, more
+specific rule sets, for specific liveries, etc., should be placed above these
+core rules.
 
 * Liveries based on call sign and type code
 * Liveries based on call sign and similar code
