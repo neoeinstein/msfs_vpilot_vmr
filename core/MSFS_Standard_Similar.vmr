@@ -3,10 +3,15 @@
 	<ModelMatchRule TypeCode="BE35" ModelName="Bonanza G36 Asobo" />
 	<ModelMatchRule TypeCode="A320" ModelName="Airbus A320 Neo Asobo" />
 	<ModelMatchRule TypeCode="EA32" ModelName="Airbus A320 Neo Asobo" />
-	<ModelMatchRule TypeCode="B788" ModelName="Boeing 787-10 Asobo" />
-	<ModelMatchRule TypeCode="B789" ModelName="Boeing 787-10 Asobo" />
 	<ModelMatchRule TypeCode="C72R" ModelName="Cessna Skyhawk G1000 Asobo" />
 	<ModelMatchRule TypeCode="C525" ModelName="Cessna CJ4 Citation Asobo" />
 	<ModelMatchRule TypeCode="C25A" ModelName="Cessna CJ4 Citation Asobo" />
 	<ModelMatchRule TypeCode="C25B" ModelName="Cessna CJ4 Citation Asobo" />
+	<ModelMatchRule TypeCode="B741" ModelName="Boeing 747-8i Asobo" />
+	<ModelMatchRule TypeCode="B742" ModelName="Boeing 747-8i Asobo" />
+	<ModelMatchRule TypeCode="B743" ModelName="Boeing 747-8i Asobo" />
+	<ModelMatchRule TypeCode="B744" ModelName="Boeing 747-8i Asobo" />
+	<ModelMatchRule TypeCode="B74D" ModelName="Boeing 747-8i Asobo" />
+	<ModelMatchRule TypeCode="B74R" ModelName="Boeing 747-8i Asobo" />
+	<ModelMatchRule TypeCode="B74S" ModelName="Boeing 747-8i Asobo" />
 </ModelMatchRuleSet>

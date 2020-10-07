@@ -18,7 +18,7 @@
 	<ModelMatchRule TypeCode="DA40" ModelName="DA40-NG Asobo" />
 	<ModelMatchRule TypeCode="TBM9" ModelName="TBM 930 Asobo" />
 	<ModelMatchRule TypeCode="CC19" ModelName="Asobo XCub" />
-	<ModelMatchRule TypeCode="B78X" ModelName="Boeing 787-10 Asobo" />
+	<ModelMatchRule TypeCode="B748" ModelName="Boeing 747-8i Asobo" />
 	<ModelMatchRule TypeCode="PTS2" ModelName="Pitts Asobo" />
 	<ModelMatchRule TypeCode="A20N" ModelName="Airbus A320 Neo Asobo" />
  </ModelMatchRuleSet>

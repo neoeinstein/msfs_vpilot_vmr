@@ -3,7 +3,7 @@
 	<ModelMatchRule TypeCode="C700" ModelName="Cessna Longitude Asobo" />
 	<ModelMatchRule TypeCode="PIAE" ModelName="Pipistrel Alpha Electro Asobo" />
 	<ModelMatchRule TypeCode="SR22" ModelName="SR22 Asobo" />
-	<ModelMatchRule TypeCode="B748" ModelName="Boeing 747-8i Asobo" />
+	<ModelMatchRule TypeCode="B78X" ModelName="Boeing 787-10 Asobo" />
 	<ModelMatchRule TypeCode="SAVG" ModelName="Asobo Savage Cub//Savage Shock Ultra Asobo" />
 	<ModelMatchRule TypeCode="J3" ModelName="Asobo Savage Cub//Savage Shock Ultra Asobo" />
  </ModelMatchRuleSet>
