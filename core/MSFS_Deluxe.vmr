@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+	<ModelMatchRule TypeCode="BE58" ModelName="Asobo Baron G58" />
+	<ModelMatchRule TypeCode="DV20" ModelName="DV20 Asobo" />
+	<ModelMatchRule TypeCode="C172" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
+	<ModelMatchRule TypeCode="C152" ModelName="Cessna 152 Asobo//Cessna 152 Aero Asobo" />
+	<ModelMatchRule TypeCode="DA40" ModelName="DA40-NG Asobo//DA40 TDI Asobo" />
+ </ModelMatchRuleSet>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+    <ModelMatchRule CallsignPrefix="KAP" TypeCode="BE60" ModelName="Asobo Baron G58 Cape Air Virtual" />
+    <ModelMatchRule CallsignPrefix="KAP" TypeCode="C404" ModelName="Asobo Baron G58 Cape Air Virtual" />
+    <ModelMatchRule CallsignPrefix="KAP" TypeCode="C402" ModelName="Asobo Baron G58 Cape Air Virtual" />
+    <ModelMatchRule CallsignPrefix="KAP" TypeCode="B350" ModelName="Asobo Baron G58 Cape Air Virtual" />
+    <ModelMatchRule CallsignPrefix="KAP" TypeCode="C421" ModelName="Asobo Baron G58 Cape Air Virtual" />
+    <ModelMatchRule CallsignPrefix="KAP" TypeCode="C340" ModelName="Asobo Baron G58 Cape Air Virtual" />
+    <ModelMatchRule CallsignPrefix="KAP" TypeCode="F406" ModelName="Asobo Baron G58 Cape Air Virtual" />
+</ModelMatchRuleSet> 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+    <ModelMatchRule CallsignPrefix="KAP" TypeCode="BE58" ModelName="Asobo Baron G58 Cape Air Virtual" />
+</ModelMatchRuleSet> 
