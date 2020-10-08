@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelMatchRuleSet>
     <ModelMatchRule TypeCode="M20T" ModelName="Carenado M20R Ovation D-ERWO//Carenado M20R Ovation N541JS//Carenado M20R Ovation N48MQ//Carenado M20R Ovation N247VD" />
+    <ModelMatchRule TypeCode="M22" ModelName="Carenado M20R Ovation D-ERWO//Carenado M20R Ovation N541JS//Carenado M20R Ovation N48MQ//Carenado M20R Ovation N247VD" />
 	<!-- This isn't strictly the right type code, but it's likely that some will be using this one incorrectly -->
     <ModelMatchRule TypeCode="M20R" ModelName="Carenado M20R Ovation D-ERWO//Carenado M20R Ovation N541JS//Carenado M20R Ovation N48MQ//Carenado M20R Ovation N247VD" />
 </ModelMatchRuleSet> 
