@@ -61,3 +61,21 @@ here would be most welcome.
 Included here primarily for reference, you can find the default vPilot rules for
 MSFS in this repository as well. They come embedded into vPilot, so you _do not_
 need to add them as a custom rule set.
+
+## My airplane avionics keep turning off…
+
+There's a bug currently known to Asobo where models loading into the sim can
+result in your panel lights, throttle, and avionics being altered in flight.
+This generally does not happen with the generic models. One workaround is to use
+generic models for AI and Multiplayer traffic, as those models don't have the
+systems that would interfere with the airplane you are currently flying. Those
+options can be found under the Graphics settings, down near the bottom.
+
+For users that find this bug particularly annoying, I've added a set of matching
+rules that take the vPilot defaults, and swap in generic models for _all_
+aircraft, so as to allow you to prevent vPilot from loading in models that will
+affect your experience.
+
+You can find that custom matching rule as `Generic_Everything.vmr`. Please file
+an issue if you experience any problems with loading the models in this rule
+set.
