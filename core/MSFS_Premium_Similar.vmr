@@ -2,4 +2,6 @@
 <ModelMatchRuleSet>
 	<ModelMatchRule TypeCode="B788" ModelName="Boeing 787-10 Asobo" />
 	<ModelMatchRule TypeCode="B789" ModelName="Boeing 787-10 Asobo" />
+	<ModelMatchRule TypeCode="PIAT" ModelName="Pipistrel Alpha Electro Asobo" />
+	<ModelMatchRule TypeCode="SR20" ModelName="SR22 Asobo" />
  </ModelMatchRuleSet>

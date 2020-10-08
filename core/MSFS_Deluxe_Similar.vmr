@@ -3,5 +3,15 @@
 	<ModelMatchRule TypeCode="BE55" ModelName="Asobo Baron G58" />
 	<ModelMatchRule TypeCode="BE56" ModelName="Asobo Baron G58" />
 	<ModelMatchRule TypeCode="B58T" ModelName="Asobo Baron G58" />
+	<ModelMatchRule TypeCode="C150" ModelName="Cessna 152 Asobo//Cessna 152 Aero Asobo" />
+	<ModelMatchRule TypeCode="C170" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
+	<ModelMatchRule TypeCode="C175" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
+	<ModelMatchRule TypeCode="C177" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
 	<ModelMatchRule TypeCode="C72R" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
- </ModelMatchRuleSet>
+	<ModelMatchRule TypeCode="C180" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
+	<ModelMatchRule TypeCode="C182" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
+	<ModelMatchRule TypeCode="C82R" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
+	<ModelMatchRule TypeCode="C82S" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
+	<ModelMatchRule TypeCode="C82T" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo" />
+	<ModelMatchRule TypeCode="DA50" ModelName="DA40-NG Asobo//DA40 TDI Asobo" />
+</ModelMatchRuleSet>
