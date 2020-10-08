@@ -38,7 +38,9 @@ The below provides an example of an appropriate ordering:
 * `KAP_Deluxe_Similar.vmr`
 * `KAP_Standard_Similar.vmr`
 * `Carenado_M20R.vmr`
+* `Carenado_C182.vmr`
 * `Carenado_M20R_Similar.vmr`
+* `Carenado_C182_Similar.vmr`
 * `MSFS_Premium.vmr`
 * `MSFS_Premium_Similar.vmr`
 * `MSFS_Deluxe.vmr`
