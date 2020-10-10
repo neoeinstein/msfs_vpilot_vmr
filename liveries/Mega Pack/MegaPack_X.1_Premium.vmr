@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+	<ModelMatchRule CallsignPrefix="AMX" TypeCode="B78X" ModelName="Boeing 787-10 Aeromexico" />
+	<ModelMatchRule CallsignPrefix="AFR" TypeCode="B78X" ModelName="Boeing 787-10 Air France" />
+	<ModelMatchRule CallsignPrefix="AAL" TypeCode="B78X" ModelName="Boeing 787-10 American Airlines" />
+	<ModelMatchRule CallsignPrefix="ANA" TypeCode="B78X" ModelName="Boeing 787-10 ANA" />
+	<ModelMatchRule CallsignPrefix="ANZ" TypeCode="B78X" ModelName="Boeing 787-10 Air New Zealand BLACK//Boeing 787-10 Air New Zealand WHITE" />
+	<ModelMatchRule CallsignPrefix="BAW" TypeCode="B78X" ModelName="Boeing 787-10 British Airways" />
+	<ModelMatchRule CallsignPrefix="ACA" TypeCode="B78X" ModelName="Boeing 787-10 Air Canada" />
+	<ModelMatchRule CallsignPrefix="CDN" TypeCode="B78X" ModelName="Boeing 787-10 Canadian Airlines" />
+	<ModelMatchRule CallsignPrefix="UAE" TypeCode="B78X" ModelName="Boeing 787-10 Emirates" />
+	<ModelMatchRule CallsignPrefix="ETH" TypeCode="B78X" ModelName="Boeing 787-10 Ethiopian Airlines" />
+	<ModelMatchRule CallsignPrefix="ETD" TypeCode="B78X" ModelName="Boeing 787-10 Etihad Airways" />
+	<ModelMatchRule CallsignPrefix="KAL" TypeCode="B78X" ModelName="Boeing 787-10 Korean Air//Boeing 787-10 Korean Air 50th year Anniversary" />
+	<ModelMatchRule CallsignPrefix="KLM" TypeCode="B78X" ModelName="Boeing 787-10 KLM//Boeing 787-10 KLM Orange Blossom" />
+	<ModelMatchRule CallsignPrefix="LOT" TypeCode="B78X" ModelName="Boeing 787-10 LOT" />
+	<ModelMatchRule CallsignPrefix="DLH" TypeCode="B78X" ModelName="Boeing 787-10 Lufthansa" />
+	<ModelMatchRule CallsignPrefix="NAX" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="NRS" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="NAA" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="IBK" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="NAN" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="NSW" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="NLH" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="OMA" TypeCode="B78X" ModelName="Boeing 787-10 Oman Air" />
+	<ModelMatchRule CallsignPrefix="ORX" TypeCode="B78X" ModelName="Boeing 787-10 Orbit Airlines" />
+	<ModelMatchRule CallsignPrefix="QFA" TypeCode="B78X" ModelName="Boeing 787-10 QANTAS 100 YEARS//Boeing 787-10 Qantas" />
+	<ModelMatchRule CallsignPrefix="QTR" TypeCode="B78X" ModelName="Boeing 787-10 Qatar Airways" />
+	<ModelMatchRule CallsignPrefix="SIA" TypeCode="B78X" ModelName="Boeing 787-10 Singapore Airlines" />
+	<ModelMatchRule CallsignPrefix="UAL" TypeCode="B78X" ModelName="Boeing 787-10 United Airlines" />
+	<ModelMatchRule CallsignPrefix="HVN" TypeCode="B78X" ModelName="Boeing 787-10 VIETNAM" />
+	<ModelMatchRule CallsignPrefix="VIR" TypeCode="B78X" ModelName="Boeing 787-10 Virgin Atlantic" />
+	
+	<ModelMatchRule TypeCode="SAVG" ModelName="Asobo Savage Cub//Savage Shock Ultra Asobo//Asobo Savage Cub Blackout//Asobo Savage Cub Pink Black//Asobo Savage Cub Orange Black//Asobo Savage Cub Orange White//Asobo Savage Cub Red White//Asobo Savage Cub White Blue//Asobo Savage Cub White Red" />
+	<ModelMatchRule TypeCode="J3" ModelName="Asobo Savage Cub//Savage Shock Ultra Asobo//Asobo Savage Cub Blackout//Asobo Savage Cub Pink Black//Asobo Savage Cub Orange Black//Asobo Savage Cub Orange White//Asobo Savage Cub Red White//Asobo Savage Cub White Blue//Asobo Savage Cub White Red" />
+ </ModelMatchRuleSet>
