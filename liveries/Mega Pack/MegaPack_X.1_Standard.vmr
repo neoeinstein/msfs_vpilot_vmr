@@ -39,7 +39,7 @@
 	<ModelMatchRule CallsignPrefix="CSC" TypeCode="A20N" ModelName="Airbus A320 Neo Air Sichuan Airlines" />
 	<ModelMatchRule CallsignPrefix="CSN" TypeCode="A20N" ModelName="Airbus A320 Neo Air China Southern Airlines" />
 	<ModelMatchRule CallsignPrefix="CUA" TypeCode="A20N" ModelName="Airbus A320 Neo Air China United Airlines" />
-	<ModelMatchRule CallsignPrefix="DAL" TypeCode="A20N" ModelName="Airbus A320 Neo Air Delta" />
+	<ModelMatchRule CallsignPrefix="DAL" TypeCode="A20N" ModelName="Airbus A320 Neo Delta" />
 	<ModelMatchRule CallsignPrefix="DAE" TypeCode="A20N" ModelName="Airbus A320 DHL" />
 	<ModelMatchRule CallsignPrefix="DHX" TypeCode="A20N" ModelName="Airbus A320 DHL" />
 	<ModelMatchRule CallsignPrefix="DHV" TypeCode="A20N" ModelName="Airbus A320 DHL" />
