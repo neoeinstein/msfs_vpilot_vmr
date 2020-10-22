@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+	<ModelMatchRule CallsignPrefix="AEA" TypeCode="B78X" ModelName="Boeing 787-10 AEA" />
+	<ModelMatchRule CallsignPrefix="ANA" TypeCode="B78X" ModelName="Boeing 787-10 ANA" />
+	<ModelMatchRule CallsignPrefix="AMX" TypeCode="B78X" ModelName="Boeing 787-10 Aeromexico" />
+	<ModelMatchRule CallsignPrefix="ACA" TypeCode="B78X" ModelName="Boeing 787-10 Air Canada//Boeing 787-10 Air Canada Ice Blue" />
+	<ModelMatchRule CallsignPrefix="AFR" TypeCode="B78X" ModelName="Boeing 787-10 Air France" />
+	<ModelMatchRule CallsignPrefix="AIC" TypeCode="B78X" ModelName="Boeing 787-10 Air India" />
+	<ModelMatchRule CallsignPrefix="ANZ" TypeCode="B78X" ModelName="Boeing 787-10 Air New Zealand BLACK//Boeing 787-10 Air New Zealand WHITE" />
+	<ModelMatchRule CallsignPrefix="RH" TypeCode="B78X" ModelName="Boeing 787-10 AirRhodesia" />
+	<ModelMatchRule CallsignPrefix="AAL" TypeCode="B78X" ModelName="Boeing 787-10 American Airlines" />
+	<ModelMatchRule CallsignPrefix="BAW" TypeCode="B78X" ModelName="Boeing 787-10 British Airways" />
+	<ModelMatchRule CallsignPrefix="CDN" TypeCode="B78X" ModelName="Boeing 787-10 Canadian Airlines" />
+	<ModelMatchRule CallsignPrefix="CJT" TypeCode="B78X" ModelName="Boeing 787-10 CargoJet" />
+	<ModelMatchRule CallsignPrefix="UAE" TypeCode="B78X" ModelName="Boeing 787-10 Emirates" />
+	<ModelMatchRule CallsignPrefix="ETH" TypeCode="B78X" ModelName="Boeing 787-10 Ethiopian Airlines" />
+	<ModelMatchRule CallsignPrefix="ETD" TypeCode="B78X" ModelName="Boeing 787-10 Etihad Airways//Boeing 787-10 Etihad Green" />
+	<ModelMatchRule CallsignPrefix="GFA" TypeCode="B78X" ModelName="Boeing 787-10 Gulf Air" />
+	<ModelMatchRule CallsignPrefix="CHH" TypeCode="B78X" ModelName="Boeing 787-10 Hainan Airlines" />
+	<ModelMatchRule CallsignPrefix="HAL" TypeCode="B78X" ModelName="Boeing 787-10 Hawaiian" />
+	<ModelMatchRule CallsignPrefix="KLM" TypeCode="B78X" ModelName="Boeing 787-10 KLM//Boeing 787-10 KLM Orange Blossom" />
+	<ModelMatchRule CallsignPrefix="KAL" TypeCode="B78X" ModelName="Boeing 787-10 Korean Air//Boeing 787-10 Korean Air 50th year Anniversary" />
+	<ModelMatchRule CallsignPrefix="LOT" TypeCode="B78X" ModelName="Boeing 787-10 LOT" />
+	<ModelMatchRule CallsignPrefix="DLH" TypeCode="B78X" ModelName="Boeing 787-10 Lufthansa" />
+	<ModelMatchRule CallsignPrefix="NAX" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="NRS" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="NAA" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="IBK" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="NAN" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="NSW" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="NLH" TypeCode="B78X" ModelName="Boeing 787-10 Norwegian" />
+	<ModelMatchRule CallsignPrefix="OMA" TypeCode="B78X" ModelName="Boeing 787-10 Oman Air" />
+	<ModelMatchRule CallsignPrefix="ORX" TypeCode="B78X" ModelName="Boeing 787-10 Orbit Airlines" />
+	<ModelMatchRule CallsignPrefix="QFA" TypeCode="B78X" ModelName="Boeing 787-10 QANTAS 100 YEARS//Boeing 787-10 Qantas" />
+	<ModelMatchRule CallsignPrefix="QTR" TypeCode="B78X" ModelName="Boeing 787-10 Qatar Airways" />
+	<ModelMatchRule CallsignPrefix="RJA" TypeCode="B78X" ModelName="Boeing 787-10 RoyalJordanian" />
+	<ModelMatchRule CallsignPrefix="SAS" TypeCode="B78X" ModelName="Boeing 787-10 SAS" />
+	<ModelMatchRule CallsignPrefix="SIA" TypeCode="B78X" ModelName="Boeing 787-10 Singapore Airlines" />
+	<ModelMatchRule CallsignPrefix="UAL" TypeCode="B78X" ModelName="Boeing 787-10 United Airlines" />
+	<ModelMatchRule CallsignPrefix="HVN" TypeCode="B78X" ModelName="Boeing 787-10 VIETNAM" />
+	<ModelMatchRule CallsignPrefix="VIR" TypeCode="B78X" ModelName="Boeing 787-10 Virgin Atlantic" />
+	
+	<ModelMatchRule CallsignPrefix="SKW" TypeCode="C700" ModelName="Cessna Citation Longitude Delta Connection" />
+	<ModelMatchRule CallsignPrefix="RPA" TypeCode="C700" ModelName="Cessna Citation Longitude Delta Connection" />
+	<ModelMatchRule CallsignPrefix="EDV" TypeCode="C700" ModelName="Cessna Citation Longitude Delta Connection" />
+	<ModelMatchRule CallsignPrefix="DAL" TypeCode="C700" ModelName="Cessna Citation Longitude Delta Connection" />
+	<ModelMatchRule CallsignPrefix="UAL" TypeCode="C700" ModelName="Cessna Citation Longitude United Express" />
+	<ModelMatchRule TypeCode="C700" ModelName="Cessna Longitude Asobo//Cessna Citation Longitude N842AW//Cessna Citation Longitude REDBOTTOM//Cessna Citation Longitude WHITEBLACKGOLD//Cessna Citation Longitude X+GrBl//Cessna Citation Longitude X+N750PT//Cessna Citation Longitude X+RED//Cessna Citation Longitude X+ROYALACID//Cessna Citation Longitude X+RWB//Cessna Citation Longitude MINIMAL" />
+
+	<ModelMatchRule TypeCode="SR22" ModelName="SR22 Asobo//Cirrus SR-22 CARBONBLUE//Cirrus SR-22 CARBONCYAN//Cirrus SR-22 CARBONGREY//Cirrus SR-22 CARBONRED//Cirrus SR-22 CARBONSILVER//Cirrus SR-22 CARBONWHITE//Cirrus SR-22 CARBONYELLOW" />
+
+	<ModelMatchRule TypeCode="SAVG" ModelName="Asobo Savage Cub//Savage Shock Ultra Asobo//Asobo Savage Cub Blackout//Asobo Savage Cub Pink Black//Asobo Savage Cub Orange Black//Asobo Savage Cub Orange White//Asobo Savage Cub Red White//Asobo Savage Cub White Blue//Asobo Savage Cub White Red" />
+	<ModelMatchRule TypeCode="J3" ModelName="Asobo Savage Cub//Savage Shock Ultra Asobo//Asobo Savage Cub Blackout//Asobo Savage Cub Pink Black//Asobo Savage Cub Orange Black//Asobo Savage Cub Orange White//Asobo Savage Cub Red White//Asobo Savage Cub White Blue//Asobo Savage Cub White Red" />
+ </ModelMatchRuleSet>

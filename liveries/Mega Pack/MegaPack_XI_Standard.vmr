@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+    <ModelMatchRule CallsignPrefix="CPA" TypeCode="A20N" ModelName="Airbus A320 Neo Cathay Pacific" />
+	<ModelMatchRule CallsignPrefix="AAL" TypeCode="A20N" ModelName="Airbus A320 Neo American" />
+	<ModelMatchRule CallsignPrefix="AEE" TypeCode="A20N" ModelName="Airbus A320 Neo Aegean Airlines" />
+	<ModelMatchRule CallsignPrefix="EIN" TypeCode="A20N" ModelName="Airbus A320 Neo Aer Lingus//Airbus A320 Neo Aer Lingus Original" />
+	<ModelMatchRule CallsignPrefix="AFL" TypeCode="A20N" ModelName="Airbus A320 Neo Aeroflot" />
+	<ModelMatchRule CallsignPrefix="ARG" TypeCode="A20N" ModelName="Airbus A320 Neo Aerolineas Argentinas" />
+	<ModelMatchRule CallsignPrefix="AXM" TypeCode="A20N" ModelName="Airbus A320 Neo AirAsia" />
+	<ModelMatchRule CallsignPrefix="FWI" TypeCode="A20N" ModelName="Airbus A320 Neo Air Caraibes" />
+	<ModelMatchRule CallsignPrefix="AFR" TypeCode="A20N" ModelName="Airbus A320 Neo Air France" />
+	<ModelMatchRule CallsignPrefix="AIC" TypeCode="A20N" ModelName="Airbus A320 Neo Air India" />
+	<ModelMatchRule CallsignPrefix="AEY" TypeCode="A20N" ModelName="Airbus A320 Neo Air Italy" />
+	<ModelMatchRule CallsignPrefix="KOR" TypeCode="A20N" ModelName="Airbus A320 Neo AirKoryo" />
+	<ModelMatchRule CallsignPrefix="ASL" TypeCode="A20N" ModelName="Airbus A320 Neo Air Serbia" />
+	<ModelMatchRule CallsignPrefix="JAT" TypeCode="A20N" ModelName="Airbus A320 Neo Air Serbia" />
+	<ModelMatchRule CallsignPrefix="YRG" TypeCode="A20N" ModelName="Airbus A320 Neo Air Serbia" />
+	<ModelMatchRule CallsignPrefix="URR" TypeCode="A20N" ModelName="Airbus A320 Neo Aurora Airlines VQ-BBD" />
+	<ModelMatchRule CallsignPrefix="AZA" TypeCode="A20N" ModelName="Airbus A320 Neo Alitalia" />
+	<ModelMatchRule CallsignPrefix="THY" TypeCode="A20N" ModelName="Airbus A320 Neo Anadolu Jet" />
+	<ModelMatchRule CallsignPrefix="AAY" TypeCode="A20N" ModelName="Airbus A320 Neo ALLEGIANT//Airbus A320 Neo Allegiant Vegas Golden Knights" />
+	<ModelMatchRule CallsignPrefix="ANA" TypeCode="A20N" ModelName="Airbus A320 Neo ANA" />
+	<ModelMatchRule CallsignPrefix="ABY" TypeCode="A20N" ModelName="Airbus A320 Neo ARABIA" />
+	<ModelMatchRule CallsignPrefix="ASA" TypeCode="A20N" ModelName="Airbus A320 Neo Alaska Airlines//Airbus A320 Neo Alaska More To Love" />
+	<ModelMatchRule CallsignPrefix="AAR" TypeCode="A20N" ModelName="Airbus A320 Neo Asiana airlines" />
+	<ModelMatchRule CallsignPrefix="ALY" TypeCode="A20N" ModelName="Airbus A320 Neo Alas Uruguay" />
+	<ModelMatchRule CallsignPrefix="AUA" TypeCode="A20N" ModelName="Airbus A320 Neo Austrian//Airbus A320 Neo Austrian New" />
+	<ModelMatchRule CallsignPrefix="AVA" TypeCode="A20N" ModelName="Airbus A320 Neo Avianca" />
+	<ModelMatchRule CallsignPrefix="RZO" TypeCode="A20N" ModelName="Airbus A320 Neo Azores Wonder//Airbus A320 Neo AZORES AIRLINE NATURAL" />
+	<ModelMatchRule CallsignPrefix="AZU" TypeCode="A20N" ModelName="Airbus A320 Neo Azul//Airbus A320 Neo Azul Rosa" />
+	<ModelMatchRule CallsignPrefix="BAW" TypeCode="A20N" ModelName="Airbus A320 Neo British Airways//Airbus A320 Neo British Airways 2012 Olympic" />
+	<ModelMatchRule CallsignPrefix="BTK" TypeCode="A20N" ModelName="Airbus A320 Neo Batik" />
+	<ModelMatchRule CallsignPrefix="BRU" TypeCode="A20N" ModelName="Airbus A320 Neo Belavia" />
+	<ModelMatchRule CallsignPrefix="RBA" TypeCode="A20N" ModelName="Airbus A320 Neo Royal Brunei Airlines" />
+	<ModelMatchRule CallsignPrefix="ACA" TypeCode="A20N" ModelName="Airbus A320 Neo Air Canada//Airbus A320 Neo Air Canada Ice Blue//Airbus A320 Neo Air Canada Rouge" />
+	<ModelMatchRule CallsignPrefix="HDA" TypeCode="A20N" ModelName="Airbus A320 Neo Cathay Dragon" />
+	<ModelMatchRule CallsignPrefix="CDG" TypeCode="A20N" ModelName="Airbus A320 Neo Shandong Airlines" />
+	<ModelMatchRule CallsignPrefix="CEB" TypeCode="A20N" ModelName="Airbus A320 Neo Cebu Pacific" />
+	<ModelMatchRule CallsignPrefix="CCA" TypeCode="A20N" ModelName="Airbus A320 Neo Air China" />
+	<ModelMatchRule CallsignPrefix="GIA" TypeCode="A20N" ModelName="Airbus A320 Neo Citilink" />
+	<ModelMatchRule CallsignPrefix="CAI" TypeCode="A20N" ModelName="Airbus A320 Neo Corendon" />
+	<ModelMatchRule CallsignPrefix="CQN" TypeCode="A20N" ModelName="Airbus A320 Neo Chongqing Airlines" />
+	<ModelMatchRule CallsignPrefix="CSC" TypeCode="A20N" ModelName="Airbus A320 Neo Sichuan Airlines" />
+	<ModelMatchRule CallsignPrefix="CSN" TypeCode="A20N" ModelName="Airbus A320 Neo China Southern Airlines" />
+	<ModelMatchRule CallsignPrefix="CUA" TypeCode="A20N" ModelName="Airbus A320 Neo China United Airlines" />
+	<ModelMatchRule CallsignPrefix="DAL" TypeCode="A20N" ModelName="Airbus A320 Neo Delta" />
+	<ModelMatchRule CallsignPrefix="DAE" TypeCode="A20N" ModelName="Airbus A320 Neo DHL" />
+	<ModelMatchRule CallsignPrefix="DHX" TypeCode="A20N" ModelName="Airbus A320 Neo DHL" />
+	<ModelMatchRule CallsignPrefix="DHV" TypeCode="A20N" ModelName="Airbus A320 Neo DHL" />
+	<ModelMatchRule CallsignPrefix="DHK" TypeCode="A20N" ModelName="Airbus A320 Neo DHL" />
+	<ModelMatchRule CallsignPrefix="EDW" TypeCode="A20N" ModelName="Airbus A320 Neo Edelweiss AI" />
+	<ModelMatchRule CallsignPrefix="MSR" TypeCode="A20N" ModelName="Airbus A320 Neo Egypt Air" />
+	<ModelMatchRule CallsignPrefix="ELB" TypeCode="A20N" ModelName="Airbus A320 Neo ELLINAIR" />
+	<ModelMatchRule CallsignPrefix="ETD" TypeCode="A20N" ModelName="Airbus A320 Neo ETIHAD" />
+	<ModelMatchRule CallsignPrefix="EVA" TypeCode="A20N" ModelName="Airbus A320 Neo Eva Air" />
+	<ModelMatchRule CallsignPrefix="EWG" TypeCode="A20N" ModelName="Airbus A320 Neo Eurowings" />
+	<ModelMatchRule CallsignPrefix="EWE" TypeCode="A20N" ModelName="Airbus A320 Neo Eurowings" />
+	<ModelMatchRule CallsignPrefix="EZY" TypeCode="A20N" ModelName="Airbus A320 Neo EasyJet NEO//Airbus A320 Neo EasyJet" />
+	<ModelMatchRule CallsignPrefix="EZU" TypeCode="A20N" ModelName="Airbus A320 Neo EasyJet NEO//Airbus A320 Neo EasyJet" />
+	<ModelMatchRule CallsignPrefix="EZS" TypeCode="A20N" ModelName="Airbus A320 Neo EasyJet NEO//Airbus A320 Neo EasyJet" />
+	<ModelMatchRule CallsignPrefix="EZS" TypeCode="A20N" ModelName="Airbus A320 Neo Eva Air//Airbus A320 Neo Eva Air Hello Kitty" />
+	<ModelMatchRule CallsignPrefix="FDX" TypeCode="A20N" ModelName="Airbus A320 Neo Federal Express" />
+	<ModelMatchRule CallsignPrefix="FIN" TypeCode="A20N" ModelName="Airbus A320 Neo Finnair" />
+	<ModelMatchRule CallsignPrefix="BEE" TypeCode="A20N" ModelName="Airbus A320 Neo FLYBE" />
+	<ModelMatchRule CallsignPrefix="KNE" TypeCode="A20N" ModelName="Airbus A320 Neo Flynas" />
+	<ModelMatchRule CallsignPrefix="FFT" TypeCode="A20N" ModelName="Airbus A320 Neo Frontier-AUSTIN//Airbus A320 Neo Frontier-BEAR//Airbus A320 Neo Frontier-BEAVER//Airbus A320 Neo Frontier-BISON//Airbus A320 Neo Frontier-BRONCO//Airbus A320 Neo Frontier-CAT//Airbus A320 Neo Frontier-CHOCO//Airbus A320 Neo Frontier-CLOVER//Airbus A320 Neo Frontier-COATI//Airbus A320 Neo Frontier-CRANE//Airbus A320 Neo Frontier-DOLPHIN//Airbus A320 Neo Frontier-DUCK//Airbus A320 Neo Frontier-FERRET//Airbus A320 Neo Frontier-FLO//Airbus A320 Neo Frontier-FLOWER//Airbus A320 Neo Frontier-FRAN//Airbus A320 Neo Frontier-JOEY//Airbus A320 Neo Frontier-LONESTAR//Airbus A320 Neo Frontier-LYNX//Airbus A320 Neo Frontier-PENGUINS//Airbus A320 Neo Frontier-PIKA//Airbus A320 Neo Frontier-POLAR//Airbus A320 Neo Frontier-SCARLET//Airbus A320 Neo Frontier-SCOUT//Airbus A320 Neo Frontier-SEAGLE//Airbus A320 Neo Frontier-SEAL//Airbus A320 Neo Frontier-SHEEP//Airbus A320 Neo Frontier-SKYE//Airbus A320 Neo Frontier-SWAN//Airbus A320 Neo Frontier-Shelly//Airbus A320 Neo Frontier-TEX//Airbus A320 Neo Frontier-WOOD//Airbus A320 Neo Frontier-WSHARK" />
+	<ModelMatchRule CallsignPrefix="GAF" TypeCode="A20N" ModelName="Airbus A320 Neo German Air Force" />
+	<ModelMatchRule CallsignPrefix="GMI" TypeCode="A20N" ModelName="Airbus A320 Neo Germania" />
+	<ModelMatchRule CallsignPrefix="GFA" TypeCode="A20N" ModelName="Airbus A320 Neo Gulf Air" />
+	<ModelMatchRule CallsignPrefix="GOW" TypeCode="A20N" ModelName="Airbus A320 Neo GoAir" />
+	<ModelMatchRule CallsignPrefix="HKE" TypeCode="A20N" ModelName="Airbus A320 Neo Hong Kong Express" />
+	<ModelMatchRule CallsignPrefix="IBE" TypeCode="A20N" ModelName="Airbus A320 Neo Iberia" />
+	<ModelMatchRule CallsignPrefix="IBS" TypeCode="A20N" ModelName="Airbus A320 Neo Iberia" />
+	<ModelMatchRule CallsignPrefix="ICE" TypeCode="A20N" ModelName="Airbus A320 Neo Iceland Air" />
+	<ModelMatchRule CallsignPrefix="IGU" TypeCode="A20N" ModelName="Airbus A320 Neo Indigo" />
+	<ModelMatchRule CallsignPrefix="IRA" TypeCode="A20N" ModelName="Airbus A320 Neo IranAir" />
+	<ModelMatchRule CallsignPrefix="IAW" TypeCode="A20N" ModelName="Airbus A320 Neo Iraqi Airways" />
+	<ModelMatchRule CallsignPrefix="ELY" TypeCode="A20N" ModelName="Airbus A320 Neo Israel Airlines" />
+	<ModelMatchRule CallsignPrefix="WWW" TypeCode="A20N" ModelName="Airbus A320 Neo JANET" />
+	<ModelMatchRule CallsignPrefix="JAL" TypeCode="A20N" ModelName="Airbus A320 Neo Japan Airlines" />
+	<ModelMatchRule CallsignPrefix="JZR" TypeCode="A20N" ModelName="Airbus A320 Neo Jazeera" />
+	<ModelMatchRule CallsignPrefix="EXS" TypeCode="A20N" ModelName="Airbus A320 Neo Jet2 AI" />
+	<ModelMatchRule CallsignPrefix="JBU" TypeCode="A20N" ModelName="Airbus A320 Neo JetBlue" />
+	<ModelMatchRule CallsignPrefix="JST" TypeCode="A20N" ModelName="Airbus A320 Neo Jetstar//Airbus A320 Neo Jetstar V2" />
+	<ModelMatchRule CallsignPrefix="KAC" TypeCode="A20N" ModelName="Airbus A320 Neo Kuwait Airways" />
+	<ModelMatchRule CallsignPrefix="APJ" TypeCode="A20N" ModelName="Airbus A320 Neo PEACH KanColle//Airbus A320 Neo PEACH" />
+	<ModelMatchRule CallsignPrefix="KLM" TypeCode="A20N" ModelName="Airbus A320 Neo KLM//Airbus A320 Neo KLM Pride" />
+	<ModelMatchRule CallsignPrefix="KAL" TypeCode="A20N" ModelName="Airbus A320 Neo KoreanAir" />
+	<ModelMatchRule CallsignPrefix="LAN" TypeCode="A20N" ModelName="Airbus A320 Neo LATAM" />
+	<ModelMatchRule CallsignPrefix="LPE" TypeCode="A20N" ModelName="Airbus A320 Neo LATAM" />
+	<ModelMatchRule CallsignPrefix="LXP" TypeCode="A20N" ModelName="Airbus A320 Neo LATAM" />
+	<ModelMatchRule CallsignPrefix="LAP" TypeCode="A20N" ModelName="Airbus A320 Neo LATAM" />
+	<ModelMatchRule CallsignPrefix="ARE" TypeCode="A20N" ModelName="Airbus A320 Neo LATAM" />
+	<ModelMatchRule CallsignPrefix="LCO" TypeCode="A20N" ModelName="Airbus A320 Neo LATAM" />
+	<ModelMatchRule CallsignPrefix="DSM" TypeCode="A20N" ModelName="Airbus A320 Neo LATAM" />
+	<ModelMatchRule CallsignPrefix="LOT" TypeCode="A20N" ModelName="Airbus A320 Neo PLL LOT" />
+	<ModelMatchRule CallsignPrefix="DLH" TypeCode="A20N" ModelName="Airbus A320 Neo Lufthansa" />
+	<ModelMatchRule CallsignPrefix="MAH" TypeCode="A20N" ModelName="Airbus A320 Neo Malév" />
+	<ModelMatchRule CallsignPrefix="MPH" TypeCode="A20N" ModelName="Airbus A320 Neo Martinair (New)" />
+	<ModelMatchRule CallsignPrefix="MEA" TypeCode="A20N" ModelName="Airbus A320 Neo Middle East Airline" />
+	<ModelMatchRule CallsignPrefix="MON" TypeCode="A20N" ModelName="Airbus A320 Neo MONARCH" />
+	<ModelMatchRule CallsignPrefix="NAX" TypeCode="A20N" ModelName="Airbus A320 Neo Norwegian Erik Bye" />
+	<ModelMatchRule CallsignPrefix="NRS" TypeCode="A20N" ModelName="Airbus A320 Neo Norwegian Erik Bye" />
+	<ModelMatchRule CallsignPrefix="NAA" TypeCode="A20N" ModelName="Airbus A320 Neo Norwegian Erik Bye" />
+	<ModelMatchRule CallsignPrefix="IBK" TypeCode="A20N" ModelName="Airbus A320 Neo Norwegian Erik Bye" />
+	<ModelMatchRule CallsignPrefix="NAN" TypeCode="A20N" ModelName="Airbus A320 Neo Norwegian Erik Bye" />
+	<ModelMatchRule CallsignPrefix="NSW" TypeCode="A20N" ModelName="Airbus A320 Neo Norwegian Erik Bye" />
+	<ModelMatchRule CallsignPrefix="NLH" TypeCode="A20N" ModelName="Airbus A320 Neo Norwegian Erik Bye" />
+	<ModelMatchRule CallsignPrefix="ORX" TypeCode="A20N" ModelName="Airbus A320 Neo Orbit Airlines" />
+	<ModelMatchRule CallsignPrefix="PAL" TypeCode="A20N" ModelName="Airbus A320 Neo Philippine Airlines" />
+	<ModelMatchRule CallsignPrefix="PGT" TypeCode="A20N" ModelName="Airbus A320 Neo Pegasus" />
+	<ModelMatchRule CallsignPrefix="PIA" TypeCode="A20N" ModelName="Airbus A320 Neo Pia" />
+	<ModelMatchRule CallsignPrefix="PRM" TypeCode="A20N" ModelName="Airbus A320 Neo PRIME AIR" />
+	<!-- Play hasn't been assigned an ICAO airline code yet, using WAB for now -->
+	<ModelMatchRule CallsignPrefix="WAB" TypeCode="A20N" ModelName="Airbus A320 Neo Play" />
+	<ModelMatchRule CallsignPrefix="POE" TypeCode="A20N" ModelName="Airbus A320 Neo Porter" />
+	<ModelMatchRule CallsignPrefix="QJE" TypeCode="A20N" ModelName="Airbus A320 Neo QuantasLink" />
+	<ModelMatchRule CallsignPrefix="QTR" TypeCode="A20N" ModelName="Airbus A320 Neo Qatar Airways" />
+	<ModelMatchRule CallsignPrefix="RAM" TypeCode="A20N" ModelName="Airbus A320 Neo Air Royal Maroc AI" />
+	<ModelMatchRule CallsignPrefix="AMC" TypeCode="A20N" ModelName="Airbus A320 Neo Air Malta" />
+	<ModelMatchRule CallsignPrefix="RYR" TypeCode="A20N" ModelName="Airbus A320 Neo Ryanair//Airbus A320 Neo Ryanair Vodafone" />
+	<ModelMatchRule CallsignPrefix="OMS" TypeCode="A20N" ModelName="Airbus A320 Neo SalamAir" />
+	<ModelMatchRule CallsignPrefix="SVA" TypeCode="A20N" ModelName="Airbus A320 Neo Saudia" />
+	<ModelMatchRule CallsignPrefix="SAS" TypeCode="A20N" ModelName="Airbus A320 Neo SAS" />
+	<ModelMatchRule CallsignPrefix="SAT" TypeCode="A20N" ModelName="Airbus A320 Neo SATA" />
+	<ModelMatchRule CallsignPrefix="SBI" TypeCode="A20N" ModelName="Airbus A320 Neo S7 Airlines" />
+	<ModelMatchRule CallsignPrefix="TGW" TypeCode="A20N" ModelName="Airbus A320 Neo Scoot" />
+	<ModelMatchRule CallsignPrefix="SEJ" TypeCode="A20N" ModelName="Airbus A320 Neo SpiceJet" />
+	<ModelMatchRule CallsignPrefix="SIA" TypeCode="A20N" ModelName="Airbus A320 Neo SQ" />
+	<ModelMatchRule CallsignPrefix="SJX" TypeCode="A20N" ModelName="Airbus A320 Neo StarLux Airlines" />
+	<ModelMatchRule CallsignPrefix="SKU" TypeCode="A20N" ModelName="Airbus A320 Neo Sky Airline" />
+	<ModelMatchRule CallsignPrefix="SWA" TypeCode="A20N" ModelName="Airbus A320 Neo Southwest Airlines" />
+	<ModelMatchRule CallsignPrefix="ANZ" TypeCode="A20N" ModelName="Airbus A320 Neo Air New Zealand Black Livery//Airbus A320 Neo Air New Zealand White Livery" />
+	<ModelMatchRule CallsignPrefix="SWR" TypeCode="A20N" ModelName="Airbus A320 Neo Swiss Air" />
+	<ModelMatchRule CallsignPrefix="TAM" TypeCode="A20N" ModelName="Airbus A320 Neo TAM" />
+	<ModelMatchRule CallsignPrefix="TAP" TypeCode="A20N" ModelName="Airbus A320 Neo TAP PORTUGAL  AI" />
+	<ModelMatchRule CallsignPrefix="TGW" TypeCode="A20N" ModelName="Airbus A320 Neo Tiger" />
+	<ModelMatchRule CallsignPrefix="TGG" TypeCode="A20N" ModelName="Airbus A320 Neo Tiger" />
+	<ModelMatchRule CallsignPrefix="MDL" TypeCode="A20N" ModelName="Airbus A320 Neo Tiger" />
+	<ModelMatchRule CallsignPrefix="TTW" TypeCode="A20N" ModelName="Airbus A320 Neo Tigerair Taiwan SoccerYCA" />
+	<ModelMatchRule CallsignPrefix="AWC" TypeCode="A20N" ModelName="Airbus A320 Neo Titan Airways  AI" />
+	<ModelMatchRule CallsignPrefix="ARG" TypeCode="A20N" ModelName="Airbus A320 Neo Areolineas Argentinas" />
+	<ModelMatchRule CallsignPrefix="AUR" TypeCode="A20N" ModelName="Airbus A320 Neo Aurigny" />
+	<ModelMatchRule CallsignPrefix="BER" TypeCode="A20N" ModelName="Airbus A320 Neo Air Berlin" />
+	<ModelMatchRule CallsignPrefix="ABL" TypeCode="A20N" ModelName="Airbus A320 Neo Air Busan" />
+	<ModelMatchRule CallsignPrefix="BTN" TypeCode="A20N" ModelName="Airbus A320 Neo Bhutan Air" />
+	<ModelMatchRule CallsignPrefix="CIB" TypeCode="A20N" ModelName="Airbus A320 Neo Condor" />
+	<ModelMatchRule CallsignPrefix="DLA" TypeCode="A20N" ModelName="Airbus A320 Neo Air Dolomiti" />
+	<ModelMatchRule CallsignPrefix="AKL" TypeCode="A20N" ModelName="Airbus A320 Neo Air Kiribati" />
+	<ModelMatchRule CallsignPrefix="PAA" TypeCode="A20N" ModelName="Airbus A320 Neo Pan Am" />
+	<ModelMatchRule CallsignPrefix="NKS" TypeCode="A20N" ModelName="Airbus A320 Neo Spirit 2" />
+	<ModelMatchRule CallsignPrefix="THD" TypeCode="A20N" ModelName="Airbus A320 Neo Thai" />
+	<ModelMatchRule CallsignPrefix="TSC" TypeCode="A20N" ModelName="Airbus A320 Neo Air Transat" />
+	<ModelMatchRule CallsignPrefix="TVF" TypeCode="A20N" ModelName="Airbus A320 Neo Air Transavia" />
+	<ModelMatchRule CallsignPrefix="SWG" TypeCode="A20N" ModelName="Airbus A320 Neo Sunwing TUI" />
+	<ModelMatchRule CallsignPrefix="HLX" TypeCode="A20N" ModelName="Airbus A320 Neo TUI Blue//Airbus A320 Neo TUI" />
+	<ModelMatchRule CallsignPrefix="HLF" TypeCode="A20N" ModelName="Airbus A320 Neo TUI Blue//Airbus A320 Neo TUI" />
+	<ModelMatchRule CallsignPrefix="TUI" TypeCode="A20N" ModelName="Airbus A320 Neo Tunisair" />
+	<ModelMatchRule CallsignPrefix="TFX" TypeCode="A20N" ModelName="Airbus A320 Neo Toll Cargo" />
+	<ModelMatchRule CallsignPrefix="THY" TypeCode="A20N" ModelName="Airbus A320 Neo Turkish" />
+	<ModelMatchRule CallsignPrefix="UPS" TypeCode="A20N" ModelName="Airbus A320 Neo UPS" />
+	<ModelMatchRule CallsignPrefix="AWE" TypeCode="A20N" ModelName="Airbus A320 Neo US AIRWAYS" />
+	<ModelMatchRule CallsignPrefix="USA" TypeCode="A20N" ModelName="Airbus A320 Neo US AIRWAYS" />
+	<ModelMatchRule CallsignPrefix="UAL" TypeCode="A20N" ModelName="Airbus A320 Neo United//Airbus A320 Neo United (Merger)//Airbus A320 Neo United Gold" />
+	<ModelMatchRule CallsignPrefix="AF" TypeCode="A20N" ModelName="Airbus A320 Neo United States Air Force" />
+	<ModelMatchRule CallsignPrefix="HVN" TypeCode="A20N" ModelName="Airbus A320 Neo Vietnam Airlines" />
+	<ModelMatchRule CallsignPrefix="VRD" TypeCode="A20N" ModelName="Airbus A320 Neo Virgin America" />
+	<ModelMatchRule CallsignPrefix="VIR" TypeCode="A20N" ModelName="Airbus A320 Neo Virgin Atlantic" />
+	<ModelMatchRule CallsignPrefix="VOZ" TypeCode="A20N" ModelName="Airbus A320 Neo Virgin Australia//Airbus A320 Neo Virgin Blue" />
+	<ModelMatchRule CallsignPrefix="VOI" TypeCode="A20N" ModelName="Airbus A320 Neo Volaris" />
+	<ModelMatchRule CallsignPrefix="WJA" TypeCode="A20N" ModelName="Airbus A320 Neo WestJet" />
+	<ModelMatchRule CallsignPrefix="WIF" TypeCode="A20N" ModelName="Airbus A320 Neo Wideroe" />
+	<ModelMatchRule CallsignPrefix="WZZ" TypeCode="A20N" ModelName="Airbus A320 Neo Wizz Air 2//Airbus A320 Neo Wizz Air" />
+	<ModelMatchRule CallsignPrefix="WVL" TypeCode="A20N" ModelName="Airbus A320 Neo Wizz Air Budapest" />
+	<ModelMatchRule CallsignPrefix="UZB" TypeCode="A20N" ModelName="Airbus A320 Neo Uzbekistan Airways UK32022" />
+	<ModelMatchRule CallsignPrefix="VJC" TypeCode="A20N" ModelName="Airbus A320 Neo Vietjet" />
+	<ModelMatchRule TypeCode="A20N" ModelName="Airbus A320 Neo Asobo//Airbus A320 Neo Around The Globe//Airbus A320 Neo Asobo AirTraffic 00//Airbus A320 Neo Asobo AirTraffic 01//Airbus A320 Neo Asobo AirTraffic 02" />
+
+	<ModelMatchRule CallsignPrefix="AF" FlightNumberRange="1" TypeCode="B748" ModelName="Boeing 747-8i Air Force One" />
+	<ModelMatchRule CallsignPrefix="CCA" TypeCode="B748" ModelName="Boeing 747-8i Air China" />
+	<ModelMatchRule CallsignPrefix="AFR" TypeCode="B748" ModelName="Boeing 747-8i Airfrance" />
+	<ModelMatchRule CallsignPrefix="AAL" TypeCode="B748" ModelName="Boeing 747-8i Asobo American Airlines" />
+	<ModelMatchRule CallsignPrefix="ANA" TypeCode="B748" ModelName="Boeing 747-8i ANA Pokemon" />
+	<ModelMatchRule CallsignPrefix="AAR" TypeCode="B748" ModelName="Boeing 747-8i Asiana Left//Boeing 747-8i Asiana Right" />
+	<ModelMatchRule CallsignPrefix="GTI" TypeCode="B748" ModelName="Boeing 747-8i Atlas Air//Boeing 747-8i Atlas Air Passenger" />
+	<ModelMatchRule CallsignPrefix="BAW" TypeCode="B748" ModelName="Boeing 747-8i British Airways Landor//Boeing 747-8i British Airways Left//Boeing 747-8i British Airways Right" />
+	<ModelMatchRule CallsignPrefix="CLX" TypeCode="B748" ModelName="Boeing 747-8i CARGOLUX MASK//Boeing 747-8i Cargolux" />
+	<ModelMatchRule CallsignPrefix="CPA" TypeCode="B748" ModelName="Boeing 747-8i Cathay Cargo//Boeing 747-8i CPA(AWC)" />
+	<ModelMatchRule CallsignPrefix="CAL" TypeCode="B748" ModelName="Boeing 747-8i China Airlines" />
+	<ModelMatchRule CallsignPrefix="DAE" TypeCode="B748" ModelName="Boeing 747-8i DHL" />
+	<ModelMatchRule CallsignPrefix="DHX" TypeCode="B748" ModelName="Boeing 747-8i DHL" />
+	<ModelMatchRule CallsignPrefix="DHV" TypeCode="B748" ModelName="Boeing 747-8i DHL" />
+	<ModelMatchRule CallsignPrefix="DHK" TypeCode="B748" ModelName="Boeing 747-8i DHL" />
+	<ModelMatchRule CallsignPrefix="UAE" TypeCode="B748" ModelName="Boeing 747-8i Emirates Cargo" />
+	<ModelMatchRule CallsignPrefix="FDX" TypeCode="B748" ModelName="Boeing 747-8i FedEx" />
+	<ModelMatchRule CallsignPrefix="KAL" TypeCode="B748" ModelName="Boeing 747-8i Korean Air Left version//Boeing 747-8i Korean Air Right version" />
+	<ModelMatchRule CallsignPrefix="KLM" TypeCode="B748" ModelName="Boeing 747-8i KLM" />
+	<ModelMatchRule CallsignPrefix="GEC" TypeCode="B748" ModelName="Boeing 747-8i Lufthansa Cargo" />
+	<ModelMatchRule CallsignPrefix="DLH" TypeCode="B748" ModelName="Boeing 747-8i Lufthansa" />
+	<ModelMatchRule CallsignPrefix="MPH" TypeCode="B748" ModelName="Boeing 747-8i Martinair" />
+	<ModelMatchRule CallsignPrefix="RBY" TypeCode="B748" ModelName="Boeing 747-8i People Express" />
+	<ModelMatchRule CallsignPrefix="QFA" TypeCode="B748" ModelName="Boeing 747-8i Asobo Qantas" />
+	<ModelMatchRule CallsignPrefix="UPS" TypeCode="B748" ModelName="Boeing 747-8i Asobo UPS" />
+	<ModelMatchRule CallsignPrefix="QTR" TypeCode="B748" ModelName="Boeing 747-8i Qatar" />
+	<ModelMatchRule CallsignPrefix="UAL" TypeCode="B748" ModelName="Boeing 747-8i United 80s" />
+	<ModelMatchRule TypeCode="B748" ModelName="Boeing 747-8i Asobo//Boeing 747-8i Global SuperTanker//Boeing 747-8i Prototype" />
+
+	<ModelMatchRule TypeCode="PTS2" ModelName="Pitts Asobo//Pitts Black &amp; Blue//Pitts Black &amp; Green//Pitts Black &amp; Red//Pitts Black &amp; Yellow//Pitts Blue &amp; White//Pitts Blue &amp; Yellow//Pitts Yellow &amp; Black//Pitts Yellow &amp; Blue" />
+
+	<ModelMatchRule TypeCode="CC19" ModelName="Asobo XCub//Asobo XCub Arctic Echo//Asobo XCub Backcountry//Asobo XCub Backcountry Echo//Asobo XCub Black Orange//Asobo XCub Black Red//Asobo XCub Bushcraft//Asobo XCub Carbon &amp; Black//Asobo XCub Expedition//Asobo XCub Expedition Echo//Asobo XCub Forest//Asobo XCub Forest Echo//Asobo XCub Glacier//Asobo XCub Glacier Echo//Asobo XCub Mountain//Asobo XCub Mountain Echo//Asobo XCub Navy Silver//Asobo XCub Orange Silver//Asobo XCub Red Silver//Asobo XCub Solar//Asobo XCub Top Cub Blue//Asobo XCub Top Cub Maroon//Asobo XCub Top Cub Green//Asobo XCub Tundra//Asobo XCub Tundra Echo//Asobo XCub Yellow Maroon" />
+
+	<ModelMatchRule CallsignPrefix="DAL" TypeCode="TBM9" ModelName="TBM 930 DODO" />
+	<ModelMatchRule CallsignPrefix="FDX" TypeCode="TBM9" ModelName="TBM 930 FedEx" />
+	<ModelMatchRule TypeCode="TBM9" ModelName="TBM 930 Asobo//TBM 930 Blue//TBM 930 Blue and Black//TBM 930 Blue and White//TBM 930 Brown//TBM 930 Chrono Aviation//TBM 930 Gold//TBM 930 Gold and Black//TBM 930 Gold and White//TBM 930 Green//TBM 930 Blue, Cyan &amp; Cream//TBM 930 Burgandy, Red &amp; Cream//TBM 930 Green, Lime &amp; Cream//TBM 930 Grey, Orange &amp; Cream//TBM 930 Purple, Pink &amp; Cream//TBM 930 Britannia//TBM 930 Deutsche//TBM 930 Eire//TBM 930 Espanol//TBM 930 Francais//TBM 930 Hungarian//TBM 930 Italiano//TBM 930 Plain Grey Milspec//TBM 930 Blue Steel//TBM 930 Golden Brown//TBM 930 Gunmetal Grey//TBM 930 Silver Bullitt//TBM 930 Purple//TBM 930 Yellow" />
+
+	<ModelMatchRule TypeCode="DA40" ModelName="DA40-NG Asobo//DA40-NG L3//DA40-NG Pilot Flight Academy//DA40-NG Pilot Flight Academy (Portugal Liverie)//DA40-NG Red//DA40-NG Skyway//DA40-NG Explorer Blue//DA40-NG Explorer Green//DA40-NG Explorer Orange//DA40-NG Explorer Red//DA40-NG Explorer Teal" />
+	<ModelMatchRule TypeCode="DA62" ModelName="DA62 Asobo//DA62 Cream//DA62 Dark Red//DA62 Gray//GA62 Orange//DA62 Red//DA62 BlackX//DA62 BlueX//DA62 BurgundyX//DA62 GreenX//DA62 RedX//DA62 WhiteX" />
+	<ModelMatchRule TypeCode="E300" ModelName="Extra 330 Asobo//Extra 330 Blue//Extra 330 Green//Extra 330 Orange//Extra 330 Purple//Extra 330 Red Bull//Extra 330 Yellow" />
+
+	<ModelMatchRule TypeCode="C152" ModelName="Cessna 152 Asobo//Cessna 152 Asobo Blue-Yellow//Cessna 152 Asobo Dark-Green//Cessna 152 Asobo Dark-Red//Cessna 152 Asobo Exclusive//Cessna 152 Asobo Lightblue//Cessna 152 Asobo Orange//Cessna 152 Asobo Purple-Grey//Cessna 152 Asobo Red-Blue//Cessna 152 Asobo USAF//Cessna 152 Asobo N757JC" />
+	<ModelMatchRule TypeCode="C172" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk G1000 Asobo C-FEFN//Cessna Skyhawk G1000 Asobo Blue//Cessna Skyhawk G1000 Asobo Green//Cessna Skyhawk G1000 KSU//Cessna Skyhawk G1000 Asobo Orange//Cessna Skyhawk G1000 Asobo Pink//Cessna Skyhawk G1000 Asobo Red//Cessna Skyhawk G1000 Asobo Yellow//Cessna Skyhawk G1000 Asobo Everdream//Cessna Skyhawk G1000 Asobo Greenage" />
+
+	<ModelMatchRule CallsignPrefix="CAP" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX Civil Air Patrol" />
+	<ModelMatchRule CallsignPrefix="GBA" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX Barrier Air New" />
+	<ModelMatchRule CallsignPrefix="DAE" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX DHL" />
+	<ModelMatchRule CallsignPrefix="DHX" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX DHL" />
+	<ModelMatchRule CallsignPrefix="DHV" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX DHL" />
+	<ModelMatchRule CallsignPrefix="DHK" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX DHL" />
+	<ModelMatchRule CallsignPrefix="FDX" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX FedEx" />
+	<ModelMatchRule CallsignPrefix="SQS" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX Susi Air" />
+	<ModelMatchRule CallsignPrefix="FAG" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX ARG" />
+	<ModelMatchRule CallsignPrefix="TOS" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX Tropic Air" />
+	<ModelMatchRule TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX//Cessna 208B Grand Caravan EX NATUREA//Cessna 208B Grand Caravan EX NATUREB//Cessna 208B Grand Caravan EX NATUREC//Cessna 208B Grand Caravan EX NATURED//Cessna 208B Grand Caravan EX Medecins Sans Frontieres//Cessna 208B Grand Caravan EX SKYDIVE" />
+
+	<ModelMatchRule TypeCode="SAVG" ModelName="Asobo Savage Cub//Asobo Savage Cub Blackout//Asobo Savage Cub Pink Black//Asobo Savage Cub Orange Black//Asobo Savage Cub Orange White//Asobo Savage Cub Red White//Asobo Savage Cub White Blue//Asobo Savage Cub White Red" />
+	<ModelMatchRule TypeCode="J3" ModelName="Asobo Savage Cub//Asobo Savage Cub Blackout//Asobo Savage Cub Pink Black//Asobo Savage Cub Orange Black//Asobo Savage Cub Orange White//Asobo Savage Cub Red White//Asobo Savage Cub White Blue//Asobo Savage Cub White Red" />
+ 
+	<ModelMatchRule TypeCode="CP10" ModelName="Mudry Cap 10 C//Mudry Cap 10 C Lightning Blue//Mudry Cap 10 C Lightning Green//Mudry Cap 10 C Lightning Orange//Mudry Cap 10 C Lightning Yellow//Mudry Cap 10 C Splash Blue//Mudry Cap 10 C Splash Green//Mudry Cap 10 C Splash Red" />
+	<ModelMatchRule TypeCode="VL3" ModelName="VL3 Asobo//VL3 Metallic Blue//VL3 Metallic Burgundy//VL3 Metallic Green//VL3 Metallic Lime//VL3 Metallic Orange//VL3 Metallic Purple//VL3 Metallic Red//VL3 Metallic Teal//VL3 Racing Blue//VL3 Racing Green//VL3 Racing Orange//VL3 Racing Purple//VL3 Racing Red" />
+
+	<ModelMatchRule CallsignPrefix="ACA" TypeCode="C25C" ModelName="Cessna CJ4 Citation AIRCANADA" />
+	<ModelMatchRule CallsignPrefix="AVE" TypeCode="C25C" ModelName="Cessna CJ4 Citation AVENSA" />
+	<ModelMatchRule CallsignPrefix="UAL" TypeCode="C25C" ModelName="Cessna CJ4 Citation United Express Blue" />
+	<ModelMatchRule CallsignPrefix="SAZ" TypeCode="C25C" ModelName="Cessna CJ4 Citation Rega" />
+	<ModelMatchRule CallsignPrefix="INX" TypeCode="C25C" ModelName="Cessna CJ4 Citation Inter Airlines" />
+	<ModelMatchRule CallsignPrefix="AF" TypeCode="C25C" ModelName="Cessna CJ4 Citation US Air Force//Cessna CJ4 Citation USAF Grey" />
+	<ModelMatchRule TypeCode="C25C" ModelName="Cessna CJ4 Citation Asobo//Cessna CJ4 Citation Air Ambulance//Cessna CJ4 Citation LifeFlight" />
+	<ModelMatchRule TypeCode="B350" ModelName="Beechcraft King Air 350i Asobo//Beechcraft King Air 350 ADAC//Beechcraft King Air 350 Chrome//Beechcraft King Air 350 Expedition Blue//Beechcraft King Air 350 Expedition Brown//Beechcraft King Air 350 Expedition Burgundy//Beechcraft King Air 350 Expedition Green//Beechcraft King Air 350 Expedition Red//Beechcraft King Air 350 Gunmetal//Beechcraft King Air 350 RNZAF//Beechcraft King Air 350 Royal Flying Doctor Service//Beechcraft King Air 350 Stainless//Beechcraft King Air 350 U.S. Forest Service Fire" />
+	<ModelMatchRule TypeCode="BE36" ModelName="Bonanza G36 Asobo//Bonanza G36 Silver Hornet" />
+</ModelMatchRuleSet>

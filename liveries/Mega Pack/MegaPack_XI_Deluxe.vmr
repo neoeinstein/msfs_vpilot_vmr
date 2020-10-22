@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+	<ModelMatchRule TypeCode="DA40" ModelName="DA40-NG Asobo//DA40 TDI Asobo//DA40-NG L3//DA40-NG Pilot Flight Academy//DA40-NG Pilot Flight Academy (Portugal Liverie)//DA40-NG Red//DA40-NG Skyway//DA40-NG Explorer Blue//DA40-NG Explorer Green//DA40-NG Explorer Orange//DA40-NG Explorer Red//DA40-NG Explorer Teal" />
+	<ModelMatchRule TypeCode="BE58" ModelName="Asobo Baron G58//Asobo Baron G58 BlueSteelX//Asobo Baron G58 Burgundy Ghia//Asobo Baron G58 ELECTRA//Asobo Baron G58 World Tour" />
+	
+	<ModelMatchRule TypeCode="C152" ModelName="Cessna 152 Asobo//Cessna 152 Aero Asobo//Cessna 152 Asobo Blue-Yellow//Cessna 152 Asobo Dark-Green//Cessna 152 Asobo Dark-Red//Cessna 152 Asobo Exclusive//Cessna 152 Asobo Lightblue//Cessna 152 Asobo Orange//Cessna 152 Asobo Purple-Grey//Cessna 152 Asobo Red-Blue//Cessna 152 Asobo USAF//Cessna 152 Asobo N757JC" />
+	<ModelMatchRule TypeCode="C172" ModelName="Cessna Skyhawk G1000 Asobo//Cessna Skyhawk Asobo//Cessna Skyhawk G1000 Asobo C-FEFN//Cessna Skyhawk G1000 Asobo Blue//Cessna Skyhawk G1000 Asobo Green//Cessna Skyhawk G1000 KSU//Cessna Skyhawk G1000 Asobo Orange//Cessna Skyhawk G1000 Asobo Pink//Cessna Skyhawk G1000 Asobo Red//Cessna Skyhawk G1000 Asobo Yellow//Cessna Skyhawk G1000 Asobo Everdream//Cessna Skyhawk G1000 Asobo Greenage//Cessna Skyhawk Asobo Dark Purple//Cessna Skyhawk Asobo Everdream//Cessna Skyhawk Asobo Midnight Purple" />
+</ModelMatchRuleSet>
