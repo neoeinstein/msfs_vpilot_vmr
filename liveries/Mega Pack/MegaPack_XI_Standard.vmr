@@ -80,7 +80,7 @@
 	<ModelMatchRule CallsignPrefix="JAL" TypeCode="A20N" ModelName="Airbus A320 Neo Japan Airlines" />
 	<ModelMatchRule CallsignPrefix="JZR" TypeCode="A20N" ModelName="Airbus A320 Neo Jazeera" />
 	<ModelMatchRule CallsignPrefix="EXS" TypeCode="A20N" ModelName="Airbus A320 Neo Jet2 AI" />
-	<ModelMatchRule CallsignPrefix="JBU" TypeCode="A20N" ModelName="Airbus A320 Neo JetBlue" />
+	<ModelMatchRule CallsignPrefix="JBU" TypeCode="A20N" ModelName="Airbus A320 Neo Jetblue Airways" />
 	<ModelMatchRule CallsignPrefix="JST" TypeCode="A20N" ModelName="Airbus A320 Neo Jetstar//Airbus A320 Neo Jetstar V2" />
 	<ModelMatchRule CallsignPrefix="KAC" TypeCode="A20N" ModelName="Airbus A320 Neo Kuwait Airways" />
 	<ModelMatchRule CallsignPrefix="APJ" TypeCode="A20N" ModelName="Airbus A320 Neo PEACH KanColle//Airbus A320 Neo PEACH" />
