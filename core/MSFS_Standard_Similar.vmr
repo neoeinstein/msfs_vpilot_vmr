@@ -22,6 +22,7 @@
 	<ModelMatchRule TypeCode="C525" ModelName="Cessna CJ4 Citation Asobo" />
 	<ModelMatchRule TypeCode="C25A" ModelName="Cessna CJ4 Citation Asobo" />
 	<ModelMatchRule TypeCode="C25B" ModelName="Cessna CJ4 Citation Asobo" />
+	<ModelMatchRule TypeCode="CL60" ModelName="Cessna CJ4 Citation Asobo" />
 	<ModelMatchRule TypeCode="FDMC" ModelName="FlightDesignCT Asobo" />
 	<ModelMatchRule TypeCode="B741" ModelName="Boeing 747-8i Asobo" />
 	<ModelMatchRule TypeCode="B742" ModelName="Boeing 747-8i Asobo" />
