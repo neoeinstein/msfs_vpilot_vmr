@@ -36,4 +36,5 @@
 	<ModelMatchRule TypeCode="TBM7" ModelName="TBM 930 Asobo" />
 	<ModelMatchRule TypeCode="DA50" ModelName="DA40-NG Asobo" />
 	<ModelMatchRule TypeCode="DA42" ModelName="DA62 Asobo" />
+	<ModelMatchRule TypeCode="AA5" ModelName="DR400 Asobo" />
 </ModelMatchRuleSet>
